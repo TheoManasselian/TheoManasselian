@@ -83,8 +83,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoManasselian&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoManasselian&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheoManasselian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" alt="Stats GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoManasselian&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Langages les plus utilisés" height="165"/>
 </p>
 
 ---
