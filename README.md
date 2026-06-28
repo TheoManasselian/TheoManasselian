@@ -15,8 +15,9 @@
 ## 👨‍💻 À propos de moi
 
 - 🎓 Programme Expert en Informatique (alternance) à l'**ESIEA** — Ivry-sur-Seine
-  - Technicien supérieur systèmes et réseaux (Bac+2, RNCP 5) — *prévu 2027*
+  - Expert en ingénierie et sécurité des systèmes d’information (Bac+5, RNCP 7) — *prévu 2030*
   - Administrateur d'infrastructures sécurisées (Bac+3, RNCP 6) — *prévu 2028*
+  - Technicien supérieur systèmes et réseaux (Bac+2, RNCP 5) — *prévu 2027*
 - 🌐 Spécialisé **réseaux & systèmes**, avec une solide base en **développement web**
 - 📍 Savigny-sur-Orge (91), France
 - 🗣️ Français (natif) · Anglais (B2, Cambridge) · Espagnol (B1)
